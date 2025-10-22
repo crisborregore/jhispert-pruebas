@@ -1,0 +1,31 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authManagement": false,
+    "authType": "jwt",
+    "authenticationType": "jwt",
+    "baseName": "jhipsterRepoGit",
+    "clientFramework": "react",
+    "creationTimestamp": 1761124457539,
+    "dataBaseName": "jhipsterRepoGit",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "devServerPort": 9060,
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "frontFramework": "react",
+    "internalization": false,
+    "javaPackageName": "gfd.gfdsg.g",
+    "jhipsterVersion": "8.1.0",
+    "jwtSecretKey": "ODliZjc1MmIyNjI2MmIwYTczYTQ0ZjNlMGMwNDNlNWIxMDk3MTlmYjYwZmMxNzMzYWY5MWM0NjA3MTIyNDgxY2IzYmNmZDE0NWNiYTllMGRhMTIzNjQwYTY3ZTZlYjZhNzk5NTFkMGE4YmVmYzY1MzM4ODg3MWYwYWY1ZDM3ZjQ=",
+    "languages": [
+      "es"
+    ],
+    "messageBroker": "kafka",
+    "nativeLanguage": "es",
+    "packageName": "gfd.gfdsg.g",
+    "prodDatabaseType": "mongodb",
+    "skipUserManagement": true
+  }
+}
