@@ -1,0 +1,30 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "authManagement": false,
+    "authType": "jwt",
+    "authenticationType": "jwt",
+    "baseName": "cucu",
+    "clientFramework": "react",
+    "creationTimestamp": 1770106483497,
+    "dataBaseName": "cucu",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "devServerPort": 9060,
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "frontFramework": "react",
+    "internalization": false,
+    "javaPackageName": "gfd.gdsf.gs",
+    "jhipsterVersion": "8.1.0",
+    "jwtSecretKey": "YzRkYmRlYzUxNTUwNmRkYjY5Nzk4NmY2N2EzMzdhNjU0MDBlNjljMWJkYzU5NWI5NmQ0YzE0YzkyMWFjYmNmZGUzN2I5ZDEwYjUzNjhhM2JiYmRiNjFiMmI0YzNkYTc3MDZhYTkzYWRlYzg0OGRmZDIyMWM0YWI1MDFkMTcyMzM=",
+    "languages": [
+      "es"
+    ],
+    "nativeLanguage": "es",
+    "packageName": "gfd.gdsf.gs",
+    "prodDatabaseType": "mongodb",
+    "skipUserManagement": true
+  }
+}
