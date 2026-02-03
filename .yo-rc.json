@@ -1,0 +1,31 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authManagement": false,
+    "authType": "jwt",
+    "authenticationType": "jwt",
+    "baseName": "pruebafinal",
+    "clientFramework": "react",
+    "creationTimestamp": 1770112133556,
+    "dataBaseName": "pruebafinal",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "devServerPort": 9060,
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "frontFramework": "react",
+    "internalization": false,
+    "javaPackageName": "gfds.gsdf.gs",
+    "jhipsterVersion": "8.1.0",
+    "jwtSecretKey": "YmE0ZTBmYjlmYWRkY2VkZjUzY2Q0OTZlOTNmN2ExODFmOTM3N2U4MzQyM2E1NzdmOTUzMTE2MjEzMDY0ZTU3MWMxMmY5Y2Q2ZmIyZDE0NzlhMGIzNjk2N2EzZWI0YjJhNzdkMjA4MWQzNGZmOGQ4YWQ4OWQ3Yjc3MWZmNjI2M2M=",
+    "languages": [
+      "es"
+    ],
+    "nativeLanguage": "es",
+    "packageName": "gfds.gsdf.gs",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticSearch",
+    "skipUserManagement": true
+  }
+}
