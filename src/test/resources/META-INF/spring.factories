@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = gfds.gsdf.gs.config.\
+    TestContainersSpringContextCustomizerFactory
